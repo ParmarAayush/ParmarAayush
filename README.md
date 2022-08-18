@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ParmarAayush
-- 🏫  I am a 5th-year diploma student pursuing computer Engineering 🧑‍🎓 at Bhagwan Mahavir Polytechnic. 
+- 🏫  I am a 3th-year diploma student pursuing computer Engineering 🧑‍🎓 at Bhagwan Mahavir Polytechnic. 
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning JavaScript
 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ParmarAayush
-- 🏫  I am a 5th-year diploma student pursuing computer Engineering 🧑‍🎓 at Bhagwan Mahavir Polytechnic. 
+- 🏫  I am a 5sem diploma student pursuing computer Engineering 🧑‍🎓 at Bhagwan Mahavir Polytechnic. 
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Android Studio, Java, Python
+- 🌱 I’m currently learning Java, Python
 
 - 👨‍💻 Programming Language: c, c++
 - 🛠️ Data Structure & Algorithms 

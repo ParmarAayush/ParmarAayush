@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @ParmarAayush
-- 🏫  I am a 3 year diploma student pursuing computer Engineering 🧑‍🎓 at Bhagwan Mahavir Polytechnic. 
+- 🏫  I am just completed my diploma in computer Engineering 🧑‍🎓 at Bhagwan Mahavir Polytechnic. 
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Firebase using javaScript
+- 🌱 I’m currently learning NodeJs
 
 - 👨‍💻 Programming Language: c, c++
 - 🛠️ Data Structure & Algorithms 
-- 🌍 Web Technologies: Html, CSS(with Pre-Processor Lang SASS), Bootstrap, Style-component
+- 🌍 Web Technologies: Html, CSS(with Pre-Processor Lang SASS), Bootstrap, JavaScript, NodeJs, Firebase, 
 - ✅ Philosopher
 
 <!------<img src = "https://github-readme-stats.vercel.app/api?username=ParmarAayush&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> ----->

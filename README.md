@@ -5,8 +5,8 @@
 
 - 👨‍💻 Programming Language: c, c++
 - 🛠️ Data Structure & Algorithms 
-- 🌍 Web Technologies: Html, CSS(with Pre-Processor Lang SASS), Bootstrap, JavaScript, NodeJs, Firebase, 
-- ✅ Philosopher
+- 🌍 Web Technologies: Html, CSS(with Pre-Processor Lang SASS), Bootstrap, JavaScript, NodeJs, MongoDB Firebase, 
+- ✅ Reader & Philosopher
 
 <!------<img src = "https://github-readme-stats.vercel.app/api?username=ParmarAayush&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> ----->
 <img src = "https://github-readme-stats.vercel.app/api?username=ParmarAayush&show_icons=true&theme=radical&count_private=true">
